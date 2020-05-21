@@ -1,3 +1,2 @@
-# README #
+# Aritificial Intelligence and Logic Programming 2019/20 #
 
-Aritificial intelligence and logic programming unit 2019/20. 
